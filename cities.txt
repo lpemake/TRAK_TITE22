@@ -1,0 +1,9 @@
+Denver;CO
+Salem;OR
+Boulder;CO
+Jackson;WY
+Portland;OR
+Colorado Springs;CO
+Cheyenne;WY
+Gold Hill;CO
+Cody;WY
