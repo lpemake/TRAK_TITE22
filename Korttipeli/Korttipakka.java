@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class Korttipakka {
     private ArrayList<Kortti> pakka;
@@ -35,6 +36,29 @@ public class Korttipakka {
     {
         Collections.shuffle(pakka);
     }
+
+    public void JarjestaOletusJarjestykseen()
+    {
+        Comparator<Kortti> vertailija = (k1, k2) -> { 
+            int ret = k1.getMaa().compareTo(k2.getMaa());
+            if (ret == 0)
+                ret = k1.getArvo() - k2.getArvo();
+            return ret;
+        };
+        Collections.sort(this.pakka, vertailija);
+    }
+
+    public void JarjestaMaanMukaan()
+    {
+        Collections.sort(this.pakka, (k1, k2) -> k1.getMaa().compareTo(k2.getMaa()));
+    }  
+    
+    public void JarjestaArvonMukaan()
+    {
+        Comparator<Kortti> vertailija = (k1, k2) -> k1.getArvo() - k2.getArvo();
+
+        Collections.sort(this.pakka, vertailija);
+    }        
 
     @Override
     public String toString() {

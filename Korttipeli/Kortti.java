@@ -9,6 +9,37 @@ public class Kortti {
 
     @Override
     public String toString() {
-        return maa + " " + arvo;
+        String s = maa.toString() + " ";
+
+        switch (arvo) {
+            case 1:
+                s += "Ässä";
+                break;
+            case 11:
+                s += "Jätkä";
+                break;   
+            case 12:
+                s += "Rouva";
+                break;                                
+            case 13:
+                s += "Kunkku";
+                break;
+
+            default:
+                s += Integer.toString(arvo);
+                break;
+        }
+
+        return s;
     }
+
+    public Maa getMaa() {
+        return maa;
+    }
+
+    public int getArvo() {
+        return arvo;
+    }
+
+    
 }

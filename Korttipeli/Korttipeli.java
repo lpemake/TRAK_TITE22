@@ -5,6 +5,8 @@ public class Korttipeli {
         Korttipakka pakka = new Korttipakka();
         pakka.luoPakka();
         pakka.Sekoita();
+        //pakka.JarjestaMaanMukaan();
+
         System.out.println(pakka.toString());
 
         System.out.println("-------------");
