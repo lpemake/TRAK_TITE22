@@ -1,309 +1,312 @@
-20	Akaa	Pirkanmaa	16 408	314,38
-5	Alajärvi	Etelä-Pohjanmaa	9 114	1 056,75
-9	Alavieska	Pohjois-Pohjanmaa	2 435	253,02
-10	Alavus	Etelä-Pohjanmaa	10 935	1 151,50
-16	Asikkala	Päijät-Häme	7 970	755,55
-18	Askola	Uusimaa	4 703	218,03
-19	Aura	Varsinais-Suomi	3 960	95,58
-35	Brändö	Ahvenanmaa	436	108,44
-43	Eckerö	Ahvenanmaa	941	109,18
-46	Enonkoski	Etelä-Savo	1 321	419,21
-47	Enontekiö	Lappi	1 770	8 391,31
-49	Espoo	Uusimaa	314 152	330,25
-50	Eura	Satakunta	11 181	630,2
-51	Eurajoki	Satakunta	9 143	520,91
-52	Evijärvi	Etelä-Pohjanmaa	2 297	390,71
-60	Finström	Ahvenanmaa	2 609	132,86
-61	Forssa	Kanta-Häme	16 502	253,36
-62	Föglö	Ahvenanmaa	509	134,99
-65	Geta	Ahvenanmaa	509	87,47
-69	Haapajärvi	Pohjois-Pohjanmaa	6 556	789,31
-71	Haapavesi	Pohjois-Pohjanmaa	6 475	1 086,53
-72	Hailuoto	Pohjois-Pohjanmaa	948	207,35
-74	Halsua	Keski-Pohjanmaa	1 013	428,34
-75	Hamina	Kymenlaakso	19 529	633,71
-76	Hammarland	Ahvenanmaa	1 645	140,29
-77	Hankasalmi	Keski-Suomi	4 548	687,74
-78	Hanko	Uusimaa	7 718	118,99
-79	Harjavalta	Satakunta	6 701	127,74
-81	Hartola	Päijät-Häme	2 529	675,48
-82	Hattula	Kanta-Häme	9 374	427,39
-86	Hausjärvi	Kanta-Häme	8 000	398,77
-111	Heinola	Päijät-Häme	17 963	839,28
-90	Heinävesi	Pohjois-Karjala	3 003	1 319,57
-91	Helsinki	Uusimaa	674 963	215,08
-97	Hirvensalmi	Etelä-Savo	2 060	746,59
-98	Hollola	Päijät-Häme	22 887	727,46
-102	Huittinen	Satakunta	9 644	539,55
-103	Humppila	Kanta-Häme	2 125	148,61
-105	Hyrynsalmi	Kainuu	2 064	1 521,37
-106	Hyvinkää	Uusimaa	46 903	336,77
-108	Hämeenkyrö	Pirkanmaa	10 316	505,1
-109	Hämeenlinna	Kanta-Häme	68 303	2 031,57
-139	Ii	Pohjois-Pohjanmaa	9 768	1 668,05
-140	Iisalmi	Pohjois-Savo	20 607	872,17
-142	Iitti	Päijät-Häme	6 446	687,09
-143	Ikaalinen	Pirkanmaa	6 850	843,4
-145	Ilmajoki	Etelä-Pohjanmaa	12 348	579,63
-146	Ilomantsi	Pohjois-Karjala	4 406	3 172,68
-153	Imatra	Etelä-Karjala	24 919	191,28
-148	Inari	Lappi	7 125	17 333,62
-149	Inkoo	Uusimaa	5 386	358
-151	Isojoki	Etelä-Pohjanmaa	1 814	647,43
-152	Isokyrö	Etelä-Pohjanmaa	4 357	356,91
-165	Janakkala	Kanta-Häme	16 127	586,07
-167	Joensuu	Pohjois-Karjala	78 060	2 750,96
-169	Jokioinen	Kanta-Häme	4 916	181,94
-170	Jomala	Ahvenanmaa	5 698	143,66
-171	Joroinen	Pohjois-Savo	4 591	711,75
-172	Joutsa	Keski-Suomi	4 071	1 066,43
-176	Juuka	Pohjois-Karjala	4 258	1 846,58
-177	Juupajoki	Pirkanmaa	1 708	274,95
-178	Juva	Etelä-Savo	5 731	1 345,69
-179	Jyväskylä	Keski-Suomi	147 821	1 466,35
-181	Jämijärvi	Satakunta	1 683	224,61
-182	Jämsä	Keski-Suomi	19 175	1 823,90
-186	Järvenpää	Uusimaa	46 475	39,93
-202	Kaarina	Varsinais-Suomi	36 335	151,62
-204	Kaavi	Pohjois-Savo	2 628	789,6
-205	Kajaani	Kainuu	36 492	2 263,82
-208	Kalajoki	Pohjois-Pohjanmaa	12 367	931,05
-211	Kangasala	Pirkanmaa	33 478	870,88
-213	Kangasniemi	Etelä-Savo	5 115	1 326,75
-214	Kankaanpää	Satakunta	12 396	1 037,87
-216	Kannonkoski	Keski-Suomi	1 216	549,88
-217	Kannus	Keski-Pohjanmaa	5 249	470,34
-218	Karijoki	Etelä-Pohjanmaa	1 188	186,35
-224	Karkkila	Uusimaa	8 578	255,32
-226	Karstula	Keski-Suomi	3 627	963,2
-230	Karvia	Satakunta	2 215	519,9
-231	Kaskinen	Pohjanmaa	1 208	10,78
-232	Kauhajoki	Etelä-Pohjanmaa	12 618	1 315,54
-233	Kauhava	Etelä-Pohjanmaa	15 164	1 328,38
-235	Kauniainen	Uusimaa	10 277	6
-236	Kaustinen	Keski-Pohjanmaa	4 135	361,09
-239	Keitele	Pohjois-Savo	2 034	578,3
-240	Kemi	Lappi	19 368	102,35
-320	Kemijärvi	Lappi	7 029	3 931,15
-241	Keminmaa	Lappi	7 690	648,12
-322	Kemiönsaari	Varsinais-Suomi	6 456	697,8
-244	Kempele	Pohjois-Pohjanmaa	19 516	110,31
-245	Kerava	Uusimaa	38 227	30,79
-249	Keuruu	Keski-Suomi	9 180	1 430,56
-250	Kihniö	Pirkanmaa	1 751	390,5
-256	Kinnula	Keski-Suomi	1 522	495,73
-257	Kirkkonummi	Uusimaa	41 160	393,54
-260	Kitee	Pohjois-Karjala	9 686	1 724,38
-261	Kittilä	Lappi	6 814	8 263,15
-263	Kiuruvesi	Pohjois-Savo	7 475	1 422,90
-265	Kivijärvi	Keski-Suomi	1 032	599,88
-271	Kokemäki	Satakunta	6 766	531,26
-272	Kokkola	Keski-Pohjanmaa	48 299	1 492,45
-273	Kolari	Lappi	4 012	2 617,74
-275	Konnevesi	Keski-Suomi	2 498	680,85
-276	Kontiolahti	Pohjois-Karjala	15 135	1 029,82
-280	Korsnäs	Pohjanmaa	2 016	239,8
-284	Koski Tl	Varsinais-Suomi	2 208	192,42
-285	Kotka	Kymenlaakso	50 488	277,77
-286	Kouvola	Kymenlaakso	78 876	2 883,29
-287	Kristiinankaupunki	Pohjanmaa	6 199	697,72
-288	Kruunupyy	Pohjanmaa	6 366	752,69
-290	Kuhmo	Kainuu	7 585	5 456,87
-291	Kuhmoinen	Pirkanmaa	2 099	936,69
-295	Kumlinge	Ahvenanmaa	290	99,44
-297	Kuopio	Pohjois-Savo	124 011	4 326,35
-300	Kuortane	Etelä-Pohjanmaa	3 382	484,85
-301	Kurikka	Etelä-Pohjanmaa	19 760	1 743,91
-304	Kustavi	Varsinais-Suomi	949	167,67
-305	Kuusamo	Pohjois-Pohjanmaa	15 017	5 808,98
-312	Kyyjärvi	Keski-Suomi	1 174	469,61
-316	Kärkölä	Päijät-Häme	4 111	259,3
-317	Kärsämäki	Pohjois-Pohjanmaa	2 441	701,42
-318	Kökar	Ahvenanmaa	224	63,94
-398	Lahti	Päijät-Häme	120 700	517,63
-399	Laihia	Pohjanmaa	7 682	508,44
-400	Laitila	Varsinais-Suomi	8 439	545,33
-407	Lapinjärvi	Uusimaa	2 449	339,31
-402	Lapinlahti	Pohjois-Savo	8 972	1 245,16
-403	Lappajärvi	Etelä-Pohjanmaa	2 789	523,73
-405	Lappeenranta	Etelä-Karjala	73 016	1 723,57
-408	Lapua	Etelä-Pohjanmaa	14 018	750,78
-410	Laukaa	Keski-Suomi	18 750	825,6
-416	Lemi	Etelä-Karjala	2 864	262,48
-417	Lemland	Ahvenanmaa	2 127	114,1
-418	Lempäälä	Pirkanmaa	24 703	307,06
-420	Leppävirta	Pohjois-Savo	9 060	1 519,64
-421	Lestijärvi	Keski-Pohjanmaa	682	558,85
-422	Lieksa	Pohjois-Karjala	10 229	4 067,70
-423	Lieto	Varsinais-Suomi	20 635	302,56
-425	Liminka	Pohjois-Pohjanmaa	10 253	642,63
-426	Liperi	Pohjois-Karjala	11 964	1 161,23
-444	Lohja	Uusimaa	45 654	1 109,73
-430	Loimaa	Varsinais-Suomi	15 423	851,85
-433	Loppi	Kanta-Häme	7 694	655,97
-434	Loviisa	Uusimaa	14 458	845,64
-435	Luhanka	Keski-Suomi	701	313,28
-436	Lumijoki	Pohjois-Pohjanmaa	2 032	214,36
-438	Lumparland	Ahvenanmaa	366	36,39
-440	Luoto	Pohjanmaa	5 842	176,54
-441	Luumäki	Etelä-Karjala	4 396	859,83
-475	Maalahti	Pohjanmaa	5 458	525,83
-478	Maarianhamina	Ahvenanmaa	11 817	11,81
-480	Marttila	Varsinais-Suomi	1 931	195,99
-481	Masku	Varsinais-Suomi	9 616	176
-483	Merijärvi	Pohjois-Pohjanmaa	1 055	231,63
-484	Merikarvia	Satakunta	2 967	450,74
-489	Miehikkälä	Kymenlaakso	1 752	440,37
-491	Mikkeli	Etelä-Savo	51 916	3 229,57
-494	Muhos	Pohjois-Pohjanmaa	8 828	798,1
-495	Multia	Keski-Suomi	1 429	765,63
-498	Muonio	Lappi	2 324	2 037,78
-499	Mustasaari	Pohjanmaa	19 757	866,56
-500	Muurame	Keski-Suomi	10 556	194,06
-503	Mynämäki	Varsinais-Suomi	7 513	522,32
-504	Myrskylä	Uusimaa	1 716	206,35
-505	Mäntsälä	Uusimaa	20 950	596,11
-508	Mänttä-Vilppula	Pirkanmaa	9 270	657,09
-507	Mäntyharju	Etelä-Savo	5 522	1 210,98
-529	Naantali	Varsinais-Suomi	19 993	316,43
-531	Nakkila	Satakunta	4 969	184,88
-535	Nivala	Pohjois-Pohjanmaa	10 450	536,24
-536	Nokia	Pirkanmaa	35 652	347,84
-538	Nousiainen	Varsinais-Suomi	4 696	199,49
-541	Nurmes	Pohjois-Karjala	9 132	2 692,84
-543	Nurmijärvi	Uusimaa	44 773	367,26
-545	Närpiö	Pohjanmaa	9 625	985,48
-560	Orimattila	Päijät-Häme	15 669	814,01
-561	Oripää	Varsinais-Suomi	1 316	117,83
-562	Orivesi	Pirkanmaa	8 842	960,08
-563	Oulainen	Pohjois-Pohjanmaa	6 975	597,54
-564	Oulu	Pohjois-Pohjanmaa	214 651	3 052,77
-309	Outokumpu	Pohjois-Karjala	6 406	584,06
-576	Padasjoki	Päijät-Häme	2 724	729,81
-577	Paimio	Varsinais-Suomi	11 238	240,04
-578	Paltamo	Kainuu	3 041	1 139,74
-445	Parainen	Varsinais-Suomi	14 993	893,9
-580	Parikkala	Etelä-Karjala	4 367	760,71
-581	Parkano	Pirkanmaa	6 127	909,57
-599	Pedersören kunta	Pohjanmaa	11 216	826,05
-583	Pelkosenniemi	Lappi	911	1 881,82
-854	Pello	Lappi	3 249	1 863,72
-584	Perho	Keski-Pohjanmaa	2 578	775,19
-588	Pertunmaa	Etelä-Savo	1 575	454,18
-592	Petäjävesi	Keski-Suomi	3 593	495,41
-593	Pieksämäki	Etelä-Savo	17 040	1 836,24
-595	Pielavesi	Pohjois-Savo	4 073	1 406,51
-598	Pietarsaari	Pohjanmaa	19 473	91,88
-601	Pihtipudas	Keski-Suomi	3 740	1 247,50
-604	Pirkkala	Pirkanmaa	20 762	103,97
-607	Polvijärvi	Pohjois-Karjala	4 063	958,33
-608	Pomarkku	Satakunta	1 943	332,05
-609	Pori	Satakunta	83 117	1 217,99
-611	Pornainen	Uusimaa	4 975	150,09
-638	Porvoo	Uusimaa	51 293	664,72
-614	Posio	Lappi	2 923	3 544,65
-615	Pudasjärvi	Pohjois-Pohjanmaa	7 483	5 867,36
-616	Pukkila	Uusimaa	1 781	145,94
-619	Punkalaidun	Pirkanmaa	2 645	364,05
-620	Puolanka	Kainuu	2 359	2 598,71
-623	Puumala	Etelä-Savo	2 110	1 237,75
-624	Pyhtää	Kymenlaakso	5 064	336,4
-625	Pyhäjoki	Pohjois-Pohjanmaa	2 980	549,21
-626	Pyhäjärvi	Pohjois-Pohjanmaa	4 756	1 459,00
-630	Pyhäntä	Pohjois-Pohjanmaa	1 646	846,75
-631	Pyhäranta	Varsinais-Suomi	1 927	148,38
-635	Pälkäne	Pirkanmaa	6 331	738,12
-636	Pöytyä	Varsinais-Suomi	8 133	773,55
-678	Raahe	Pohjois-Pohjanmaa	23 794	1 028,22
-710	Raasepori	Uusimaa	27 211	1 215,45
-680	Raisio	Varsinais-Suomi	25 336	49,34
-681	Rantasalmi	Etelä-Savo	3 295	925,18
-683	Ranua	Lappi	3 599	3 694,79
-684	Rauma	Satakunta	38 837	510,1
-686	Rautalampi	Pohjois-Savo	2 932	761,99
-687	Rautavaara	Pohjois-Savo	1 425	1 235,25
-689	Rautjärvi	Etelä-Karjala	3 032	401,9
-691	Reisjärvi	Pohjois-Pohjanmaa	2 598	503,32
-694	Riihimäki	Kanta-Häme	28 482	125,55
-697	Ristijärvi	Kainuu	1 162	897,94
-698	Rovaniemi	Lappi	65 285	8 016,62
-700	Ruokolahti	Etelä-Karjala	4 760	1 219,85
-702	Ruovesi	Pirkanmaa	4 122	950,17
-704	Rusko	Varsinais-Suomi	6 438	127,9
-707	Rääkkylä	Pohjois-Karjala	1 903	699,68
-729	Saarijärvi	Keski-Suomi	8 846	1 422,72
-732	Salla	Lappi	3 343	5 872,41
-734	Salo	Varsinais-Suomi	51 097	2 061,84
-736	Saltvik	Ahvenanmaa	1 794	159,62
-790	Sastamala	Pirkanmaa	23 514	1 531,74
-738	Sauvo	Varsinais-Suomi	2 973	253,97
-739	Savitaipale	Etelä-Karjala	3 215	690,56
-740	Savonlinna	Etelä-Savo	31 842	3 597,69
-742	Savukoski	Lappi	978	6 496,57
-743	Seinäjoki	Etelä-Pohjanmaa	66 157	1 469,22
-746	Sievi	Pohjois-Pohjanmaa	4 714	799,88
-747	Siikainen	Satakunta	1 284	491,31
-748	Siikajoki	Pohjois-Pohjanmaa	4 838	1 062,61
-791	Siikalatva	Pohjois-Pohjanmaa	4 930	2 229,88
-749	Siilinjärvi	Pohjois-Savo	21 300	507,81
-751	Simo	Lappi	2 828	1 466,55
-753	Sipoo	Uusimaa	22 590	342,67
-755	Siuntio	Uusimaa	6 159	249,95
-758	Sodankylä	Lappi	8 133	12 415,32
-759	Soini	Etelä-Pohjanmaa	1 872	574,22
-761	Somero	Varsinais-Suomi	8 409	697,68
-762	Sonkajärvi	Pohjois-Savo	3 635	1 576,79
-765	Sotkamo	Kainuu	10 275	2 951,84
-766	Sottunga	Ahvenanmaa	115	28,06
-768	Sulkava	Etelä-Savo	2 369	769,2
-771	Sund	Ahvenanmaa	995	112,49
-777	Suomussalmi	Kainuu	7 171	5 857,59
-778	Suonenjoki	Pohjois-Savo	6 710	862,34
-781	Sysmä	Päijät-Häme	3 496	936,07
-783	Säkylä	Satakunta	6 378	527,81
-831	Taipalsaari	Etelä-Karjala	4 621	761,95
-832	Taivalkoski	Pohjois-Pohjanmaa	3 731	2 650,61
-833	Taivassalo	Varsinais-Suomi	1 701	142
-834	Tammela	Kanta-Häme	5 845	715,15
-837	Tampere	Pirkanmaa	255 066	689,59
-844	Tervo	Pohjois-Savo	1 410	494,3
-845	Tervola	Lappi	2 832	1 592,05
-846	Teuva	Etelä-Pohjanmaa	4 758	556,05
-848	Tohmajärvi	Pohjois-Karjala	4 067	895,36
-849	Toholampi	Keski-Pohjanmaa	2 850	617,05
-850	Toivakka	Keski-Suomi	2 369	413,94
-851	Tornio	Lappi	21 015	1 227,86
-853	Turku	Varsinais-Suomi	201 889	249,1
-857	Tuusniemi	Pohjois-Savo	2 313	699,42
-858	Tuusula	Uusimaa	41 334	225,45
-859	Tyrnävä	Pohjois-Pohjanmaa	6 525	494,87
-886	Ulvila	Satakunta	12 530	422,51
-887	Urjala	Pirkanmaa	4 570	505,41
-889	Utajärvi	Pohjois-Pohjanmaa	2 492	1 735,02
-890	Utsjoki	Lappi	1 142	5 372,00
-892	Uurainen	Keski-Suomi	3 615	372,25
-893	Uusikaarlepyy	Pohjanmaa	7 504	737,21
-895	Uusikaupunki	Varsinais-Suomi	14 939	551,53
-785	Vaala	Pohjois-Pohjanmaa	2 590	1 763,57
-905	Vaasa	Pohjanmaa	68 969	369,54
-908	Valkeakoski	Pirkanmaa	20 701	372,03
-92	Vantaa	Uusimaa	247 447	240,35
-915	Varkaus	Pohjois-Savo	19 718	524,48
-918	Vehmaa	Varsinais-Suomi	2 247	192,06
-921	Vesanto	Pohjois-Savo	1 893	569,81
-922	Vesilahti	Pirkanmaa	4 470	353,93
-924	Veteli	Keski-Pohjanmaa	2 936	520,91
-925	Vieremä	Pohjois-Savo	3 389	973,38
-927	Vihti	Uusimaa	28 812	567,06
-931	Viitasaari	Keski-Suomi	5 879	1 589,12
-934	Vimpeli	Etelä-Pohjanmaa	2 657	328,79
-935	Virolahti	Kymenlaakso	2 927	376,24
-936	Virrat	Pirkanmaa	6 274	1 299,07
-941	Vårdö	Ahvenanmaa	472	102,1
-946	Vöyri	Pohjanmaa	6 290	791,33
-976	Ylitornio	Lappi	3 764	2 212,77
-977	Ylivieska	Pohjois-Pohjanmaa	15 368	574,2
-980	Ylöjärvi	Pirkanmaa	33 680	1 323,96
-981	Ypäjä	Kanta-Häme	2 207	183,25
-989	Ähtäri	Etelä-Pohjanmaa	5 315	910,87
-992	Äänekoski	Keski-Suomi	17 977	1 138,38
+20	Akaa	Pirkanmaa	16408	314.38
+5	Alajï¿½rvi	Etelï¿½-Pohjanmaa	9114	1056.75
+9	Alavieska	Pohjois-Pohjanmaa	2435	253.02
+10	Alavus	Etelï¿½-Pohjanmaa	10935	1151.5
+16	Asikkala	Pï¿½ijï¿½t-Hï¿½me	7970	755.55
+18	Askola	Uusimaa	4703	218.03
+19	Aura	Varsinais-Suomi	3960	95.58
+35	Brï¿½ndï¿½	Ahvenanmaa	436	108.44
+43	Eckerï¿½	Ahvenanmaa	941	109.18
+46	Enonkoski	Etelï¿½-Savo	1321	419.21
+47	Enontekiï¿½	Lappi	1770	8391.31
+49	Espoo	Uusimaa	314152	330.25
+50	Eura	Satakunta	11181	630.2
+51	Eurajoki	Satakunta	9143	520.91
+52	Evijï¿½rvi	Etelï¿½-Pohjanmaa	2297	390.71
+60	Finstrï¿½m	Ahvenanmaa	2609	132.86
+61	Forssa	Kanta-Hï¿½me	16502	253.36
+62	Fï¿½glï¿½	Ahvenanmaa	509	134.99
+65	Geta	Ahvenanmaa	509	87.47
+69	Haapajï¿½rvi	Pohjois-Pohjanmaa	6556	789.31
+71	Haapavesi	Pohjois-Pohjanmaa	6475	1086.53
+72	Hailuoto	Pohjois-Pohjanmaa	948	207.35
+74	Halsua	Keski-Pohjanmaa	1013	428.34
+75	Hamina	Kymenlaakso	19529	633.71
+76	Hammarland	Ahvenanmaa	1645	140.29
+77	Hankasalmi	Keski-Suomi	4548	687.74
+78	Hanko	Uusimaa	7718	118.99
+79	Harjavalta	Satakunta	6701	127.74
+81	Hartola	Pï¿½ijï¿½t-Hï¿½me	2529	675.48
+82	Hattula	Kanta-Hï¿½me	9374	427.39
+86	Hausjï¿½rvi	Kanta-Hï¿½me	8000	398.77
+111	Heinola	Pï¿½ijï¿½t-Hï¿½me	17963	839.28
+90	Heinï¿½vesi	Pohjois-Karjala	3003	1319.57
+91	Helsinki	Uusimaa	674963	215.08
+97	Hirvensalmi	Etelï¿½-Savo	2060	746.59
+98	Hollola	Pï¿½ijï¿½t-Hï¿½me	22887	727.46
+102	Huittinen	Satakunta	9644	539.55
+103	Humppila	Kanta-Hï¿½me	2125	148.61
+105	Hyrynsalmi	Kainuu	2064	1521.37
+106	Hyvinkï¿½ï¿½	Uusimaa	46903	336.77
+108	Hï¿½meenkyrï¿½	Pirkanmaa	10316	505.1
+109	Hï¿½meenlinna	Kanta-Hï¿½me	68303	2031.57
+139	Ii	Pohjois-Pohjanmaa	9768	1668.05
+140	Iisalmi	Pohjois-Savo	20607	872.17
+142	Iitti	Pï¿½ijï¿½t-Hï¿½me	6446	687.09
+143	Ikaalinen	Pirkanmaa	6850	843.4
+145	Ilmajoki	Etelï¿½-Pohjanmaa	12348	579.63
+146	Ilomantsi	Pohjois-Karjala	4406	3172.68
+153	Imatra	Etelï¿½-Karjala	24919	191.28
+148	Inari	Lappi	7125	17333.62
+149	Inkoo	Uusimaa	5386	358
+151	Isojoki	Etelï¿½-Pohjanmaa	1814	647.43
+152	Isokyrï¿½	Etelï¿½-Pohjanmaa	4357	356.91
+165	Janakkala	Kanta-Hï¿½me	16127	586.07
+167	Joensuu	Pohjois-Karjala	78060	2750.96
+169	Jokioinen	Kanta-Hï¿½me	4916	181.94
+170	Jomala	Ahvenanmaa	5698	143.66
+171	Joroinen	Pohjois-Savo	4591	711.75
+172	Joutsa	Keski-Suomi	4071	1066.43
+176	Juuka	Pohjois-Karjala	4258	1846.58
+177	Juupajoki	Pirkanmaa	1708	274.95
+178	Juva	Etelï¿½-Savo	5731	1345.69
+179	Jyvï¿½skylï¿½	Keski-Suomi	147821	1466.35
+181	Jï¿½mijï¿½rvi	Satakunta	1683	224.61
+182	Jï¿½msï¿½	Keski-Suomi	19175	1823.9
+186	Jï¿½rvenpï¿½ï¿½	Uusimaa	46475	39.93
+202	Kaarina	Varsinais-Suomi	36335	151.62
+204	Kaavi	Pohjois-Savo	2628	789.6
+205	Kajaani	Kainuu	36492	2263.82
+208	Kalajoki	Pohjois-Pohjanmaa	12367	931.05
+211	Kangasala	Pirkanmaa	33478	870.88
+213	Kangasniemi	Etelï¿½-Savo	5115	1326.75
+214	Kankaanpï¿½ï¿½	Satakunta	12396	1037.87
+216	Kannonkoski	Keski-Suomi	1216	549.88
+217	Kannus	Keski-Pohjanmaa	5249	470.34
+218	Karijoki	Etelï¿½-Pohjanmaa	1188	186.35
+224	Karkkila	Uusimaa	8578	255.32
+226	Karstula	Keski-Suomi	3627	963.2
+230	Karvia	Satakunta	2215	519.9
+231	Kaskinen	Pohjanmaa	1208	10.78
+232	Kauhajoki	Etelï¿½-Pohjanmaa	12618	1315.54
+233	Kauhava	Etelï¿½-Pohjanmaa	15164	1328.38
+235	Kauniainen	Uusimaa	10277	6
+236	Kaustinen	Keski-Pohjanmaa	4135	361.09
+239	Keitele	Pohjois-Savo	2034	578.3
+240	Kemi	Lappi	19368	102.35
+320	Kemijï¿½rvi	Lappi	7029	3931.15
+241	Keminmaa	Lappi	7690	648.12
+322	Kemiï¿½nsaari	Varsinais-Suomi	6456	697.8
+244	Kempele	Pohjois-Pohjanmaa	19516	110.31
+245	Kerava	Uusimaa	38227	30.79
+249	Keuruu	Keski-Suomi	9180	1430.56
+250	Kihniï¿½	Pirkanmaa	1751	390.5
+256	Kinnula	Keski-Suomi	1522	495.73
+257	Kirkkonummi	Uusimaa	41160	393.54
+260	Kitee	Pohjois-Karjala	9686	1724.38
+261	Kittilï¿½	Lappi	6814	8263.15
+263	Kiuruvesi	Pohjois-Savo	7475	1422.9
+265	Kivijï¿½rvi	Keski-Suomi	1032	599.88
+271	Kokemï¿½ki	Satakunta	6766	531.26
+272	Kokkola	Keski-Pohjanmaa	48299	1492.45
+273	Kolari	Lappi	4012	2617.74
+275	Konnevesi	Keski-Suomi	2498	680.85
+276	Kontiolahti	Pohjois-Karjala	15135	1029.82
+280	Korsnï¿½s	Pohjanmaa	2016	239.8
+284	Koski-Tl	Varsinais-Suomi	2208	192.42
+285	Kotka	Kymenlaakso	50488	277.77
+286	Kouvola	Kymenlaakso	78876	2883.29
+287	Kristiinankaupunki	Pohjanmaa	6199	697.72
+288	Kruunupyy	Pohjanmaa	6366	752.69
+290	Kuhmo	Kainuu	7585	5456.87
+291	Kuhmoinen	Pirkanmaa	2099	936.69
+295	Kumlinge	Ahvenanmaa	290	99.44
+297	Kuopio	Pohjois-Savo	124011	4326.35
+300	Kuortane	Etelï¿½-Pohjanmaa	3382	484.85
+301	Kurikka	Etelï¿½-Pohjanmaa	19760	1743.91
+304	Kustavi	Varsinais-Suomi	949	167.67
+305	Kuusamo	Pohjois-Pohjanmaa	15017	5808.98
+312	Kyyjï¿½rvi	Keski-Suomi	1174	469.61
+316	Kï¿½rkï¿½lï¿½	Pï¿½ijï¿½t-Hï¿½me	4111	259.3
+317	Kï¿½rsï¿½mï¿½ki	Pohjois-Pohjanmaa	2441	701.42
+318	Kï¿½kar	Ahvenanmaa	224	63.94
+398	Lahti	Pï¿½ijï¿½t-Hï¿½me	120700	517.63
+399	Laihia	Pohjanmaa	7682	508.44
+400	Laitila	Varsinais-Suomi	8439	545.33
+407	Lapinjï¿½rvi	Uusimaa	2449	339.31
+402	Lapinlahti	Pohjois-Savo	8972	1245.16
+403	Lappajï¿½rvi	Etelï¿½-Pohjanmaa	2789	523.73
+405	Lappeenranta	Etelï¿½-Karjala	73016	1723.57
+408	Lapua	Etelï¿½-Pohjanmaa	14018	750.78
+410	Laukaa	Keski-Suomi	18750	825.6
+416	Lemi	Etelï¿½-Karjala	2864	262.48
+417	Lemland	Ahvenanmaa	2127	114.1
+418	Lempï¿½ï¿½lï¿½	Pirkanmaa	24703	307.06
+420	Leppï¿½virta	Pohjois-Savo	9060	1519.64
+421	Lestijï¿½rvi	Keski-Pohjanmaa	682	558.85
+422	Lieksa	Pohjois-Karjala	10229	4067.7
+423	Lieto	Varsinais-Suomi	20635	302.56
+425	Liminka	Pohjois-Pohjanmaa	10253	642.63
+426	Liperi	Pohjois-Karjala	11964	1161.23
+444	Lohja	Uusimaa	45654	1109.73
+430	Loimaa	Varsinais-Suomi	15423	851.85
+433	Loppi	Kanta-Hï¿½me	7694	655.97
+434	Loviisa	Uusimaa	14458	845.64
+435	Luhanka	Keski-Suomi	701	313.28
+436	Lumijoki	Pohjois-Pohjanmaa	2032	214.36
+438	Lumparland	Ahvenanmaa	366	36.39
+440	Luoto	Pohjanmaa	5842	176.54
+441	Luumï¿½ki	Etelï¿½-Karjala	4396	859.83
+475	Maalahti	Pohjanmaa	5458	525.83
+478	Maarianhamina	Ahvenanmaa	11817	11.81
+480	Marttila	Varsinais-Suomi	1931	195.99
+481	Masku	Varsinais-Suomi	9616	176
+483	Merijï¿½rvi	Pohjois-Pohjanmaa	1055	231.63
+484	Merikarvia	Satakunta	2967	450.74
+489	Miehikkï¿½lï¿½	Kymenlaakso	1752	440.37
+491	Mikkeli	Etelï¿½-Savo	51916	3229.57
+494	Muhos	Pohjois-Pohjanmaa	8828	798.1
+495	Multia	Keski-Suomi	1429	765.63
+498	Muonio	Lappi	2324	2037.78
+499	Mustasaari	Pohjanmaa	19757	866.56
+500	Muurame	Keski-Suomi	10556	194.06
+503	Mynï¿½mï¿½ki	Varsinais-Suomi	7513	522.32
+504	Myrskylï¿½	Uusimaa	1716	206.35
+505	Mï¿½ntsï¿½lï¿½	Uusimaa	20950	596.11
+508	Mï¿½nttï¿½-Vilppula	Pirkanmaa	9270	657.09
+507	Mï¿½ntyharju	Etelï¿½-Savo	5522	1210.98
+529	Naantali	Varsinais-Suomi	19993	316.43
+531	Nakkila	Satakunta	4969	184.88
+535	Nivala	Pohjois-Pohjanmaa	10450	536.24
+536	Nokia	Pirkanmaa	35652	347.84
+538	Nousiainen	Varsinais-Suomi	4696	199.49
+541	Nurmes	Pohjois-Karjala	9132	2692.84
+543	Nurmijï¿½rvi	Uusimaa	44773	367.26
+545	Nï¿½rpiï¿½	Pohjanmaa	9625	985.48
+560	Orimattila	Pï¿½ijï¿½t-Hï¿½me	15669	814.01
+561	Oripï¿½ï¿½	Varsinais-Suomi	1316	117.83
+562	Orivesi	Pirkanmaa	8842	960.08
+563	Oulainen	Pohjois-Pohjanmaa	6975	597.54
+564	Oulu	Pohjois-Pohjanmaa	214651	3052.77
+309	Outokumpu	Pohjois-Karjala	6406	584.06
+576	Padasjoki	Pï¿½ijï¿½t-Hï¿½me	2724	729.81
+577	Paimio	Varsinais-Suomi	11238	240.04
+578	Paltamo	Kainuu	3041	1139.74
+445	Parainen	Varsinais-Suomi	14993	893.9
+580	Parikkala	Etelï¿½-Karjala	4367	760.71
+581	Parkano	Pirkanmaa	6127	909.57
+599	Pedersï¿½ren-kunta	Pohjanmaa	11216	826.05
+583	Pelkosenniemi	Lappi	911	1881.82
+854	Pello	Lappi	3249	1863.72
+584	Perho	Keski-Pohjanmaa	2578	775.19
+588	Pertunmaa	Etelï¿½-Savo	1575	454.18
+592	Petï¿½jï¿½vesi	Keski-Suomi	3593	495.41
+593	Pieksï¿½mï¿½ki	Etelï¿½-Savo	17040	1836.24
+595	Pielavesi	Pohjois-Savo	4073	1406.51
+598	Pietarsaari	Pohjanmaa	19473	91.88
+601	Pihtipudas	Keski-Suomi	3740	1247.5
+604	Pirkkala	Pirkanmaa	20762	103.97
+607	Polvijï¿½rvi	Pohjois-Karjala	4063	958.33
+608	Pomarkku	Satakunta	1943	332.05
+609	Pori	Satakunta	83117	1217.99
+611	Pornainen	Uusimaa	4975	150.09
+638	Porvoo	Uusimaa	51293	664.72
+614	Posio	Lappi	2923	3544.65
+615	Pudasjï¿½rvi	Pohjois-Pohjanmaa	7483	5867.36
+616	Pukkila	Uusimaa	1781	145.94
+619	Punkalaidun	Pirkanmaa	2645	364.05
+620	Puolanka	Kainuu	2359	2598.71
+623	Puumala	Etelï¿½-Savo	2110	1237.75
+624	Pyhtï¿½ï¿½	Kymenlaakso	5064	336.4
+625	Pyhï¿½joki	Pohjois-Pohjanmaa	2980	549.21
+626	Pyhï¿½jï¿½rvi	Pohjois-Pohjanmaa	4756	1459
+630	Pyhï¿½ntï¿½	Pohjois-Pohjanmaa	1646	846.75
+631	Pyhï¿½ranta	Varsinais-Suomi	1927	148.38
+635	Pï¿½lkï¿½ne	Pirkanmaa	6331	738.12
+636	Pï¿½ytyï¿½	Varsinais-Suomi	8133	773.55
+678	Raahe	Pohjois-Pohjanmaa	23794	1028.22
+710	Raasepori	Uusimaa	27211	1215.45
+680	Raisio	Varsinais-Suomi	25336	49.34
+681	Rantasalmi	Etelï¿½-Savo	3295	925.18
+683	Ranua	Lappi	3599	3694.79
+684	Rauma	Satakunta	38837	510.1
+686	Rautalampi	Pohjois-Savo	2932	761.99
+687	Rautavaara	Pohjois-Savo	1425	1235.25
+689	Rautjï¿½rvi	Etelï¿½-Karjala	3032	401.9
+691	Reisjï¿½rvi	Pohjois-Pohjanmaa	2598	503.32
+694	Riihimï¿½ki	Kanta-Hï¿½me	28482	125.55
+697	Ristijï¿½rvi	Kainuu	1162	897.94
+698	Rovaniemi	Lappi	65285	8016.62
+700	Ruokolahti	Etelï¿½-Karjala	4760	1219.85
+702	Ruovesi	Pirkanmaa	4122	950.17
+704	Rusko	Varsinais-Suomi	6438	127.9
+707	Rï¿½ï¿½kkylï¿½	Pohjois-Karjala	1903	699.68
+729	Saarijï¿½rvi	Keski-Suomi	8846	1422.72
+732	Salla	Lappi	3343	5872.41
+734	Salo	Varsinais-Suomi	51097	2061.84
+736	Saltvik	Ahvenanmaa	1794	159.62
+790	Sastamala	Pirkanmaa	23514	1531.74
+738	Sauvo	Varsinais-Suomi	2973	253.97
+739	Savitaipale	Etelï¿½-Karjala	3215	690.56
+740	Savonlinna	Etelï¿½-Savo	31842	3597.69
+742	Savukoski	Lappi	978	6496.57
+743	Seinï¿½joki	Etelï¿½-Pohjanmaa	66157	1469.22
+746	Sievi	Pohjois-Pohjanmaa	4714	799.88
+747	Siikainen	Satakunta	1284	491.31
+748	Siikajoki	Pohjois-Pohjanmaa	4838	1062.61
+791	Siikalatva	Pohjois-Pohjanmaa	4930	2229.88
+749	Siilinjï¿½rvi	Pohjois-Savo	21300	507.81
+751	Simo	Lappi	2828	1466.55
+753	Sipoo	Uusimaa	22590	342.67
+755	Siuntio	Uusimaa	6159	249.95
+758	Sodankylï¿½	Lappi	8133	12415.32
+759	Soini	Etelï¿½-Pohjanmaa	1872	574.22
+761	Somero	Varsinais-Suomi	8409	697.68
+762	Sonkajï¿½rvi	Pohjois-Savo	3635	1576.79
+765	Sotkamo	Kainuu	10275	2951.84
+766	Sottunga	Ahvenanmaa	115	28.06
+768	Sulkava	Etelï¿½-Savo	2369	769.2
+771	Sund	Ahvenanmaa	995	112.49
+777	Suomussalmi	Kainuu	7171	5857.59
+778	Suonenjoki	Pohjois-Savo	6710	862.34
+781	Sysmï¿½	Pï¿½ijï¿½t-Hï¿½me	3496	936.07
+783	Sï¿½kylï¿½	Satakunta	6378	527.81
+831	Taipalsaari	Etelï¿½-Karjala	4621	761.95
+832	Taivalkoski	Pohjois-Pohjanmaa	3731	2650.61
+833	Taivassalo	Varsinais-Suomi	1701	142
+834	Tammela	Kanta-Hï¿½me	5845	715.15
+837	Tampere	Pirkanmaa	255066	689.59
+844	Tervo	Pohjois-Savo	1410	494.3
+845	Tervola	Lappi	2832	1592.05
+846	Teuva	Etelï¿½-Pohjanmaa	4758	556.05
+848	Tohmajï¿½rvi	Pohjois-Karjala	4067	895.36
+849	Toholampi	Keski-Pohjanmaa	2850	617.05
+850	Toivakka	Keski-Suomi	2369	413.94
+851	Tornio	Lappi	21015	1227.86
+853	Turku	Varsinais-Suomi	201889	249.1
+857	Tuusniemi	Pohjois-Savo	2313	699.42
+858	Tuusula	Uusimaa	41334	225.45
+859	Tyrnï¿½vï¿½	Pohjois-Pohjanmaa	6525	494.87
+886	Ulvila	Satakunta	12530	422.51
+887	Urjala	Pirkanmaa	4570	505.41
+889	Utajï¿½rvi	Pohjois-Pohjanmaa	2492	1735.02
+890	Utsjoki	Lappi	1142	5372
+892	Uurainen	Keski-Suomi	3615	372.25
+893	Uusikaarlepyy	Pohjanmaa	7504	737.21
+895	Uusikaupunki	Varsinais-Suomi	14939	551.53
+785	Vaala	Pohjois-Pohjanmaa	2590	1763.57
+905	Vaasa	Pohjanmaa	68969	369.54
+908	Valkeakoski	Pirkanmaa	20701	372.03
+92	Vantaa	Uusimaa	247447	240.35
+915	Varkaus	Pohjois-Savo	19718	524.48
+918	Vehmaa	Varsinais-Suomi	2247	192.06
+921	Vesanto	Pohjois-Savo	1893	569.81
+922	Vesilahti	Pirkanmaa	4470	353.93
+924	Veteli	Keski-Pohjanmaa	2936	520.91
+925	Vieremï¿½	Pohjois-Savo	3389	973.38
+927	Vihti	Uusimaa	28812	567.06
+931	Viitasaari	Keski-Suomi	5879	1589.12
+934	Vimpeli	Etelï¿½-Pohjanmaa	2657	328.79
+935	Virolahti	Kymenlaakso	2927	376.24
+936	Virrat	Pirkanmaa	6274	1299.07
+941	Vï¿½rdï¿½	Ahvenanmaa	472	102.1
+946	Vï¿½yri	Pohjanmaa	6290	791.33
+976	Ylitornio	Lappi	3764	2212.77
+977	Ylivieska	Pohjois-Pohjanmaa	15368	574.2
+980	Ylï¿½jï¿½rvi	Pirkanmaa	33680	1323.96
+981	Ypï¿½jï¿½	Kanta-Hï¿½me	2207	183.25
+989	ï¿½htï¿½ri	Etelï¿½-Pohjanmaa	5315	910.87
+992	ï¿½ï¿½nekoski	Keski-Suomi	17977	1138.38
+1001 Virhekunta1 NumberFormatException 18s977 1120.71
+1002 Virhekunta2 NumberFormatException 18977 1120,71
+1003 Virhekunta2 OmaPoikkeus 18977
