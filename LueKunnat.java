@@ -69,7 +69,7 @@ public class LueKunnat {
                         return 0;*/
                 };
             // järjestä
-            Collections.sort(kunnat, maakunnanJaNimenMukaan);
+            Collections.sort(kunnat, vakiluvunMukaan);
 
             for (Kunta kunta : kunnat) {
                 System.out.println(kunta);

@@ -9,6 +9,8 @@ public class ReadCities {
         try {
             HashMap<String, ArrayList<String>> osavaltiot = new HashMap<>();
 
+            //HashMap<String, Osavaltio> osavaltiot = new HashMap<>();
+
             Scanner tiedosto = new Scanner(Paths.get("cities.txt"));
 
             while (tiedosto.hasNextLine())
