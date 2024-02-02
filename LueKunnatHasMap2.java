@@ -38,7 +38,7 @@ public class LueKunnatHasMap2 {
                     // katsotaan löytyykö kuntaa vastaava maakunta hajautustaulusta
                     if (!maakunnat.containsKey(maakunta)) {
                         // lisätään maakunta hajautustauluun
-                        maakunnat.put(maakunta, new Maakunta(nimi));
+                        maakunnat.put(maakunta, new Maakunta(maakunta));
                     }
                     // haetaan maakunta hajautustaulusta
                     Maakunta m = maakunnat.get(maakunta);
@@ -54,8 +54,9 @@ public class LueKunnatHasMap2 {
 
             // käydään maakunnat läpi
             for (Maakunta maakunta : maakunnat.values()) {
+                maakunta.jarjestaVakiluvunMukaan();
                 System.out.println(maakunta.toString());
-                System.out.println("---------------S");
+                System.out.println("----------------");
             }
 
         } catch (Exception e) {
