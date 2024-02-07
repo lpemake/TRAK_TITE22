@@ -59,6 +59,24 @@ public class LueKunnatHasMap2 {
                 System.out.println("----------------");
             }
 
+            ArrayList<Maakunta> maakuntalista = new ArrayList<>(maakunnat.values());
+            Collections.sort(maakuntalista, (m1, m2) -> m1.getVakiluku() - m2.getVakiluku());
+            for (Maakunta maakunta : maakuntalista) {
+                System.out.println(maakunta.getNimi() + " " + maakunta.getVakiluku());
+            }
+
+            // järjestetään kunkin maakunnan kunnat väkiluvun mukaan
+            System.out.println();
+            maakuntalista.stream()
+                .forEach(m -> m.jarjestaVakiluvunMukaan());
+
+            // tulostetaan suuret maakunnat
+            System.out.println();
+            System.out.println("maakunnat joissa on yli 300 000 asukasta:");
+            maakuntalista.stream()
+                .filter(m -> m.getVakiluku() > 300000)
+                .forEach(s -> System.out.println(s.getNimi()));
+
         } catch (Exception e) {
             System.out.println("virhe");
         }

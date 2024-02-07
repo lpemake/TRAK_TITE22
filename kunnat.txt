@@ -307,6 +307,3 @@
 981	Yp�j�	Kanta-H�me	2207	183.25
 989	�ht�ri	Etel�-Pohjanmaa	5315	910.87
 992	��nekoski	Keski-Suomi	17977	1138.38
-1001 Virhekunta1 NumberFormatException 18s977 1120.71
-1002 Virhekunta2 NumberFormatException 18977 1120,71
-1003 Virhekunta2 OmaPoikkeus 18977

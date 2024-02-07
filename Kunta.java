@@ -13,6 +13,7 @@ public class Kunta {
         this.pintaAla = pintaAla;
     }
 
+
     @Override
     public String toString() {
         return "Kunta [koodi=" + koodi + ", nimi=" + nimi + ", maakunta=" + maakunta + ", vakiluku=" + vakiluku

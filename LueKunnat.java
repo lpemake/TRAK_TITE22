@@ -70,6 +70,8 @@ public class LueKunnat {
                 };
             // järjestä
             Collections.sort(kunnat, vakiluvunMukaan);
+            // järjestä streamien avulla
+            kunnat.stream().sorted(vakiluvunMukaan);
 
             for (Kunta kunta : kunnat) {
                 System.out.println(kunta);

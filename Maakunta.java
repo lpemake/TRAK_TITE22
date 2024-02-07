@@ -31,5 +31,17 @@ public class Maakunta {
         }
 
         return sb.toString();
+    }
+
+    public int getVakiluku() {
+        int n = 0;
+        for (Kunta kunta : kunnat) {
+            n += kunta.getVakiluku();
+        }
+        return n;
+    }
+
+    public String getNimi() {
+        return nimi;
     } 
 }
